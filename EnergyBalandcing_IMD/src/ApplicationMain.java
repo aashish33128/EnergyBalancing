@@ -4,8 +4,6 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Random;
 
-import javax.rmi.CORBA.Util;
-
 public class ApplicationMain {
 
 	int N = PARAMETERS.numNodes;
