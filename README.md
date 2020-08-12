@@ -1,2 +1,2 @@
 # Energy Balancing
-Simulation code for  "Energy sharing based content delivery in mobile social networks". Doesn't include all protocols
+Simulation code for  "Loss-Aware Efficient Energy Balancing inMobile Opportunistic Networks". Doesn't include all protocols
